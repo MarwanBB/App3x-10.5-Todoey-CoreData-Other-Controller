@@ -1,0 +1,6 @@
+framework module Pods_App3x_10_5_Todoey_CoreData___Other_Controller {
+  umbrella header "Pods-App3x 10.5 Todoey CoreData + Other Controller-umbrella.h"
+
+  export *
+  module * { export * }
+}
